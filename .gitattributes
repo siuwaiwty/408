@@ -1,0 +1,4 @@
+oswd.pdf filter=lfs diff=lfs merge=lfs -text
+cnwd.pdf filter=lfs diff=lfs merge=lfs -text
+cowd.pdf filter=lfs diff=lfs merge=lfs -text
+dswd.pdf filter=lfs diff=lfs merge=lfs -text
